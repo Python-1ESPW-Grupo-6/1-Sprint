@@ -1,1 +1,1 @@
-# 1-Sprint
+# 1 - Sprint - COMPUTATIONAL THINKING WITH PYTHON
